@@ -6,3 +6,4 @@ Install the PlatformIO with this guide: https://platformio.org/platformio-ide
 
 Use PlatformIO to build and upload demo to your board.
 
+<img src="./studio.png" width="800"/>
